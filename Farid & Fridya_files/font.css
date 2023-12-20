@@ -1,0 +1,101 @@
+@font-face {
+  font-family: 'Baskerville';
+  src: url('./baskerville_v2/Baskerville-Old-Face-V2.eot'); /* IE9 Compat Modes */
+  src: url('./baskerville_v2/Baskerville-Old-Face-V2.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./baskerville_v2/Baskerville-Old-Face-V2.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./baskerville_v2/Baskerville-Old-Face-V2.woff') format('woff'), /* Pretty Modern Browsers */
+    url('./baskerville_v2/Baskerville-Old-Face-V2.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('./baskerville_v2/Baskerville-Old-Face-V2.svg#BaskOldFace') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Edwardian';
+  src: url('./edwardian/edwardian-script-itc-webfont.eot');
+  src: url('./edwardian/edwardian-script-itc-webfont.eot?#iefix') format('embedded-opentype'),
+       url('./edwardian/edwardian-script-itc-webfont.woff2') format('woff2'),
+       url('./edwardian/edwardian-script-itc-webfont.woff') format('woff'),
+       url('./edwardian/edwardian-script-itc-webfont.ttf') format('truetype'),
+       url('./edwardian/edwardian-script-itc-webfont.svg#edwardian_script_itcregular') format('svg');
+}
+
+@font-face {
+  font-family: 'Adelia';
+  src: url('./adelia/adelia.otf') format('opentype'),
+       url('./adelia/adelia.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Jawa Palsu';
+  src: url('./jawa_palsu/JAWAPALSU.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cannu';
+  src: url('./Cannu/Cannu.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Champignon';
+  src: url('./Champignon/Champignon.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Oh Baby';
+  src: url('./oh_baby/OoohBaby-Regular.ttf') format('truetype'),
+  url('./oh_baby/OoohBaby-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Gwendolyn';
+  src: url('./Gwendolyn/Gwendolyn-Regular.ttf') format('truetype'),
+  url('./Gwendolyn/Gwendolyn-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'dream avenue';
+    src: url('./dream_av/Dream_Avenue.otf') format('opentype'),
+    url('./dream_av/Dream_Avenue.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'tanpearl';
+    src: url('./tanpearl/TAN-PEARL.otf') format('opentype'),
+    url('./tanpearl/TAN-PEARL.ttf') format('truetype'),
+    url('./tanpearl/TAN-PEARL.woff') format('woff'),
+    url('./tanpearl/TAN-PEARL.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'galerimodern';
+    src: url('./gallery_modern/gallerymodern-webfont.ttf') format('truetype'),
+    url('./gallery_modern/gallerymodern-webfont.woff') format('woff')
+}
+@font-face {
+    font-family: 'maharlika';
+    src: url('./maharlika/Maharlika-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ananda';
+    src: url('./ananda/Ananda.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'dagton';
+    src: url('./dag/dagtton.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'belgiano';
+    src: url('./belgiano_serif/belgianoserif.ttf') format('truetype');
+}
+/* @font-face {
+  font-family: "Adelia";
+  src: url("//db.onlinewebfonts.com/t/ff1e901133ef99c1d2831cd9fe723364.eot");
+  src: url("//db.onlinewebfonts.com/t/ff1e901133ef99c1d2831cd9fe723364.eot?#iefix") format("embedded-opentype"),
+  url("//db.onlinewebfonts.com/t/ff1e901133ef99c1d2831cd9fe723364.woff2") format("woff2"),
+  url("//db.onlinewebfonts.com/t/ff1e901133ef99c1d2831cd9fe723364.woff") format("woff"),
+  url("//db.onlinewebfonts.com/t/ff1e901133ef99c1d2831cd9fe723364.ttf") format("truetype"),
+  url("//db.onlinewebfonts.com/t/ff1e901133ef99c1d2831cd9fe723364.svg#Adelia FREE") format("svg");
+} */
+  /* font-family: 'Adelia';
+  src: url('./edwardian/edwardian-script-itc-webfont.eot');
+  src: url('./edwardian/edwardian-script-itc-webfont.eot?#iefix') format('embedded-opentype'),
+       url('./edwardian/edwardian-script-itc-webfont.woff2') format('woff2'),
+       url('./edwardian/edwardian-script-itc-webfont.woff') format('woff'),
+       url('./edwardian/edwardian-script-itc-webfont.ttf') format('truetype'),
+       url('./edwardian/edwardian-script-itc-webfont.svg#edwardian_script_itcregular') format('svg');*/
