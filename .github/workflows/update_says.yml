@@ -23,4 +23,4 @@ jobs:
         git add .
         git commit -m "Automated says.json update" || echo "No changes to commit"
     - name: Push changes
-      run: git push origin master
+      run: git push origin main
