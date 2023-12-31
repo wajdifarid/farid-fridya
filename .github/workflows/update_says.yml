@@ -23,4 +23,8 @@ jobs:
         git add .
         git commit -m "Automated says.json update" || echo "No changes to commit"
     - name: Push changes
-      run: git push origin main
+      run: |
+        git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/wajdifarid/farid-fridya.git
+        git push origin main
+      shell: /usr/bin/bash -e {0}
+    
