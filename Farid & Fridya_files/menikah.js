@@ -173,23 +173,23 @@ function getsays() {
         url: url,
         dataType: "json",
     })
-        .done((response) => {
-            // console.log(response);
-            let data = response.data;
-            let html = "";
-            data.forEach((item) => {
-                html += div
-                    .replace("{name}", item.name)
-                    .replace("{date}", moment(item.updated_at).fromNow())
-                    .replace("{say}", item.say);
-            });
-
-            parent.append(html);
-        })
-        .fail((errors) => {
-            console.log(errors);
+    .done((response) => {
+        let data = response.data;
+        let html = "";
+        data.forEach((item) => {
+            html += div
+                .replace("{name}", item.name)
+                .replace("{date}", moment(item.updated_at).fromNow())
+                .replace("{say}", item.say);
         });
+
+        parent.append(html);
+    })
+    .fail((errors) => {
+        console.log(errors);
+    });
 }
+
 
 // function loopErrors(errors) {
 //     $('.invalid-feedback').remove();

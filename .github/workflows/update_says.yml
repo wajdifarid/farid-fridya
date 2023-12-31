@@ -1,0 +1,26 @@
+name: Scheduled Workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 05:00 UTC every day
+    - cron: '0 5 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    - name: Run a Script
+      run: ./update_wish.sh
+    - name: Configure Git
+      run: |
+        git config --global user.name 'Farid Wajdi'
+        git config --global user.email 'faridwajdi05@gmail.com'
+    - name: Commit changes
+      run: |
+        git add .
+        git commit -m "Automated says.json update" || echo "No changes to commit"
+    - name: Push changes
+      run: git push origin master
