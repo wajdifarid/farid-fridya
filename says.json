@@ -3,6 +3,13 @@
   "message": "success",
   "data": [
     {
+      "name": "Avina",
+      "is_presence": "1",
+      "say": "Selamat Fridya dan Ka Farid, semoga sakinah mawadah wa rahmah 🥰",
+      "created_at": "2024-01-01T11:59:02.000000Z",
+      "updated_at": "2024-01-01T11:59:55.000000Z"
+    },
+    {
       "name": "Ahmad",
       "is_presence": null,
       "say": "Congrats Fridya dan Farid",
