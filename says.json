@@ -3,6 +3,230 @@
   "message": "success",
   "data": [
     {
+      "name": "TANIA",
+      "is_presence": null,
+      "say": "Selamat Okta!! Semoga lancar-lancar, dan bahagia selaluu!!🥹❤️",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-07T04:45:31.000000Z"
+    },
+    {
+      "name": "KAK SASA",
+      "is_presence": null,
+      "say": "Fridyaaaa dan calon suamii hayırlı olsun barakallah happy wedding sehat2 terusss\r\nSmoga Allah sllau memberkahi pernikahannya cennete kadar inşallah aamiinn🤍🤍🤍🤍",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-07T01:52:49.000000Z"
+    },
+    {
+      "name": "MBA AMEL DAN MAS DADING",
+      "is_presence": "1",
+      "say": "Semoga menjadi keluarga yang sakinah mawadah warahmah barokah aamiin",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-07T01:38:43.000000Z"
+    },
+    {
+      "name": "TAMIMA",
+      "is_presence": null,
+      "say": "Barakallah ka fridyaa✨ mohon maaf belum bisa hadir.. semoga menjadi keluarga yang sakinah mawaddah ma rahmah🤍 aamiin",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-07T01:24:34.000000Z"
+    },
+    {
+      "name": "OM BRAM DAN KELUARGA",
+      "is_presence": "1",
+      "say": "Bismillah semoga lancar dan diberi keberkahan Aminnnn....",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T22:27:15.000000Z"
+    },
+    {
+      "name": "SYAHNADIN",
+      "is_presence": null,
+      "say": "masyaallah tabarakallah. bismillah semoga lancar sampai hari h ya okta dan masnya🥰",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-06T21:50:47.000000Z"
+    },
+    {
+      "name": "AYU DAN CALON SUAMI",
+      "is_presence": null,
+      "say": "Selamatt yaaa ta, semoga lancar sampai hari H .",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-06T18:27:19.000000Z"
+    },
+    {
+      "name": "BLI NGURAH",
+      "is_presence": null,
+      "say": "Selamat Kak Fridya, semoga acaranya lancar. Menjadi keluarga yang sakinah, mawaddah, warahmah. Aamiin",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-06T17:53:28.000000Z"
+    },
+    {
+      "name": "FAHRUL ROZI",
+      "is_presence": null,
+      "say": "Selamat Frid dan suami… dilancarkan sampai hari H!",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-06T17:47:34.000000Z"
+    },
+    {
+      "name": "SYIFA",
+      "is_presence": null,
+      "say": "Kak Fridya... selamat yaa kak. Semoga lancar sampai hari H dan menjadi keluarga yg sakinah, mawaddah, warahmah Aamiin",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-01-06T17:43:52.000000Z"
+    },
+    {
+      "name": "SALMA NOVIYANTI",
+      "is_presence": null,
+      "say": "selamat untuk fridya dan kak farid, semoga terus dilancarkan samapi hari H dan setalahnya. Samawa dan berkah selalu🫶🏼✨",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T15:30:30.000000Z"
+    },
+    {
+      "name": "fajar singgih prasetyo",
+      "is_presence": null,
+      "say": "selamat yaa kak Fridya dan calon suamii\r\nsemoga menjadi keluarga sakinah mawadah warahmah",
+      "created_at": "2024-01-06T15:24:59.000000Z",
+      "updated_at": "2024-01-06T15:24:59.000000Z"
+    },
+    {
+      "name": "BENING AND FUTURE HUSBAND",
+      "is_presence": null,
+      "say": "Wishing Fridya and Farid a lifetime of love, happiness, and unforgettable adventures together. Cheers to your beautiful journey ahead!",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T14:55:19.000000Z"
+    },
+    {
+      "name": "KOMANDAN GIFFARY",
+      "is_presence": null,
+      "say": "Congrats okta dan calon suami! Semoga dilancarkan dan banyak diberi keberkahan. Aminn",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T14:35:22.000000Z"
+    },
+    {
+      "name": "PALUPI DAN CALON SUAMI",
+      "is_presence": null,
+      "say": "Waaa Selamat fridyaa dan kak Farid. Bahagia selalu yaaaa. Semoga Sakinah Mawadah wa Rahmah, Lancar dan sehat selaluuu ❤️",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T13:16:58.000000Z"
+    },
+    {
+      "name": "MBA DEWI DAN CALON SUAMI ",
+      "is_presence": "1",
+      "say": "Selamattt fridya, lancar sampai hari H, dan kedepannya sukses terus, happy terusss.",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T12:37:05.000000Z"
+    },
+    {
+      "name": "ARRAHMAN SIREGAR",
+      "is_presence": null,
+      "say": "CONGRATULATİONS FRİDYA DAN SUAMI. SEMOGA SAMAWA.",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T11:36:38.000000Z"
+    },
+    {
+      "name": "ALFIRA IHDA DAN MAS BULE",
+      "is_presence": null,
+      "say": "Akhirnya tempat sambat pecah telor, selamat ya Fridya dan Kak Farid. Semoga lancar persiapannya dan sehat selalu sampe hari H🫶🫶",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T11:20:48.000000Z"
+    },
+    {
+      "name": "TYAS PUSPITA DAN MASNYA",
+      "is_presence": null,
+      "say": "Semoga lancar sampai hari H. Saling mengasihi, menghargai, dan menyayangi seumur hidup❤️",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T11:19:56.000000Z"
+    },
+    {
+      "name": "AURORA",
+      "is_presence": "0",
+      "say": "So happy for both of you Kak Fridya and Pasangan! Semoga sakinah, mawaddah, warohmah🥹✨",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T11:09:36.000000Z"
+    },
+    {
+      "name": "IBU ENI",
+      "is_presence": "0",
+      "say": "Alhamdulillaah. Ikut seneng mba Fridya, semoga acaranya lancar dan sukses, tercipta keluarga yang Sakinnah Mawaddah Warrohmah, memiliki keturunan yg Soleh Sholehah, Aamiin Ya Rabbalalamiin",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T11:06:02.000000Z"
+    },
+    {
+      "name": "SYFANA HANG YANG",
+      "is_presence": null,
+      "say": "SELAMAAAT OKTAAAAA DAN CALON SUAMI❤️\r\nsemoga dilancarkan sampai hari H yaa~~~",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T11:05:57.000000Z"
+    },
+    {
+      "name": "ISMI FAUZIAH ASRI",
+      "is_presence": null,
+      "say": "Barakallah cantiiiiik, semoga dilancarkan segala prosesinya menuju hari H dan seterusnya yaaah 🤲🏻💐 luvv 🤍🤍🤍",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T11:04:54.000000Z"
+    },
+    {
+      "name": "KA DINA",
+      "is_presence": null,
+      "say": "Congratulations sayangku semoga di lancarkan semuanya Aamiin 🙏💞",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:58:17.000000Z"
+    },
+    {
+      "name": "CRISYA PRISTA DAN CALON SUAMI",
+      "is_presence": "1",
+      "say": "Akhirnya tempat sambat pecah telorrr, selamat okta & ka farid semoga menjadi keluarga yg samawa. Bahagia selalu🥰",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:56:27.000000Z"
+    },
+    {
+      "name": "JELITA",
+      "is_presence": null,
+      "say": "kaaaaa friii finallyyy sebar undangann MasyaAllah semoga kaka dan calon paksu menjadi keluarga yg sakinah, mawaddah, wa rahmah until jannah😍🥰💐💐",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:56:11.000000Z"
+    },
+    {
+      "name": "KAK MEGA PEVITA ZULAILA ",
+      "is_presence": "1",
+      "say": "aku ada dititik di undang sama kaka sebuah rasa syukur sambil bendung air mata, temen, sahabat, kaka sekaligus keluarga bisa ada dititik ini. aku bangga bgt!!! lancar dan bahagia selalu kakak dan mas farid, see you on putwokerto!",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:52:40.000000Z"
+    },
+    {
+      "name": "EVA MARJOLI DAN CALON",
+      "is_presence": null,
+      "say": "Selamat ya ka fridddddd semoga langgeng sampe mau memisahkan❤️❤️❤️❤️❤️❤️❤️❤️",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:48:04.000000Z"
+    },
+    {
+      "name": "IBU TRI JAYANTI JEGEG",
+      "is_presence": null,
+      "say": "Selamat atas pernikahannya Mba Frid dan suami, doa terbaik buat keluarga baru nya 😇😇",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:48:00.000000Z"
+    },
+    {
+      "name": "FAIZ AND THE GANG",
+      "is_presence": null,
+      "say": "bahagiaa selalu kak fridyaa dari faiz&imam hatip gang \r\nsakinah,mawaddah,warahmahh\r\nsemoga jastip turki nya lancar dan makin besarr🙌🏻",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:46:18.000000Z"
+    },
+    {
+      "name": "ALE",
+      "is_presence": "1",
+      "say": "barakallah kak fridyaaaa 💖💖 semoga samawa",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:40:18.000000Z"
+    },
+    {
+      "name": "ABDURRAHMAN NASHIR",
+      "is_presence": null,
+      "say": "Mabrrukk, Baarakallah.. semoga Alloh senantiasa memberikan kemudahan dan keberkahan di setiap prosesnya hingga hari - H nanti, Aaminn. Selamat mbak Fridya dan mas Farid 💐\r\n\r\nDan selanjutnya Alloh limpahkan Sakinah Mawaddah wa Rahmah -Nya dalam pernikahan kalian nanti. Aaminn Yaa Rabb 🤲",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-01-06T10:35:36.000000Z"
+    },
+    {
       "name": "Rachmah Nuresty",
       "is_presence": "1",
       "say": "Aaaaa selamat sayangkuu semoga lancar terus sampe hari h yaah ❤️❤️",
