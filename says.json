@@ -3,6 +3,27 @@
   "message": "success",
   "data": [
     {
+      "name": "AMEL DAN SUAMI",
+      "is_presence": null,
+      "say": "Oktaaaaaaa selamat yaaahhhh sorry ga bisa dateng ke pwt😢😢 semogaaa samawa ya bebskuuu bahagiaaaaa selaluu❤️❤️",
+      "created_at": "2024-01-29T05:47:22.000000Z",
+      "updated_at": "2024-02-17T05:00:14.000000Z"
+    },
+    {
+      "name": "MBA IDA",
+      "is_presence": null,
+      "say": "Selamat Menempuh Hidup Baru Fridya dan Farid. Semoga jadi keluarga sakinah mawadah wa rahmah. Aamiin",
+      "created_at": "2024-01-06T10:28:04.000000Z",
+      "updated_at": "2024-02-17T03:30:19.000000Z"
+    },
+    {
+      "name": "RETNO MEILANI",
+      "is_presence": "1",
+      "say": "Selamat oktaaa, dilancarkan segala urusannyaaa💖",
+      "created_at": "2024-01-06T17:12:16.000000Z",
+      "updated_at": "2024-02-16T15:38:55.000000Z"
+    },
+    {
       "name": "Josephine",
       "is_presence": null,
       "say": "Oktaa semoga berbahagia selalu dengan suami. \r\nJadi keluarga yang samawa dan terus menjadi berkat. Amiinn",
@@ -15,13 +36,6 @@
       "say": "Selamat ka Fridya dan Suami, semoga lancar sampai hari H dan menjadi pernikahan yang samawa 💗💗",
       "created_at": "2024-01-06T17:12:16.000000Z",
       "updated_at": "2024-02-08T13:58:34.000000Z"
-    },
-    {
-      "name": "RETNO MEILANI",
-      "is_presence": null,
-      "say": "Selamat oktaaa, dilancarkan segala urusannyaaa💖",
-      "created_at": "2024-01-06T17:12:16.000000Z",
-      "updated_at": "2024-02-06T09:07:33.000000Z"
     },
     {
       "name": "Apak dan andeh dipadang(wir dan ros)",
